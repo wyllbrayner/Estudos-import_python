@@ -1,0 +1,2 @@
+print(f'estou no __init__')
+
